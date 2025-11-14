@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="cursor-talk-to-figma-mcp-完全セットアップガイド（ゼロから始める初心者向け）">cursor-talk-to-figma-mcp 完全セットアップガイド（ゼロから始める初心者向け）</h1>
+<h1 id="Windows版 cursor-talk-to-figma-mcp-完全セットアップガイド（ゼロから始める初心者向け）">Windows版 cursor-talk-to-figma-mcp 完全セットアップガイド（ゼロから始める初心者向け）</h1>
 <p>このガイドは、まだ何もインストールしていない状態から、cursor-talk-to-figma-mcpを使い始めるまでの<strong>全手順</strong>を解説します。</p>
 <blockquote>
 <p><strong>既にセットアップ済みの方は</strong>: <code>CURSOR_TALK_TO_FIGMA_SETUP_GUIDE.md</code> をご覧ください。</p>
